@@ -1,1 +1,1 @@
-# EyeCloudAI_CDK
+# EyeCloudAI_OpenNCC-NCB
