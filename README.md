@@ -1,6 +1,6 @@
 # EyeCloudAI_OpenNCC-NCB
 
-OpenNCC NCB is a Neural Computing Board produced by EyeCloud. Inc to provide similar functions as the Intel® Neural Compute Stick 2 (Intel® NCS2). OpenNCC NCB can work with Intel® Distribution of OpenVINO™ Toolkit. 
+OpenNCC NCB is a Neural Computing Board produced by EyeCloud. Inc, working with Intel® Distribution of OpenVINO™ Toolkit to provide similar functions as the Intel® Neural Compute Stick 2 (Intel® NCS2).
 
 ## How to get started
 
