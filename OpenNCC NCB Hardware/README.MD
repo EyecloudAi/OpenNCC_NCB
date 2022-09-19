@@ -1,0 +1,1 @@
+We are also open sourcing DXF Files for both OpenNCC NCB-USB board and OpenNCC NCB-FFC board, but they are too big to be upload on GitHub, please download them from google drive [here](https://drive.google.com/drive/folders/18GfuUI_KS_ycqkewJGWUPzeZAnp7hBOk).
